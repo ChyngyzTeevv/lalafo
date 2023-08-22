@@ -1,5 +1,11 @@
 .menu {
 	margin-bottom: 64px;
+	display: flex;
+	justify-content: center;
+	color: #fff;
+	font-size: 80px;
+	font-style: oblique;
+	
 }
 
 .boxes {
@@ -12,4 +18,12 @@
 	width: 233px;
 	height: 314px;
 	background-color: #000;
+
+}
+.hover {
+	width: 233px;
+	height: 314px;
+}
+body {
+	background-color: #152031;
 }
