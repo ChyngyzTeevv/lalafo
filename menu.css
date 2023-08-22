@@ -1,0 +1,15 @@
+.menu {
+	margin-bottom: 64px;
+}
+
+.boxes {
+	display: flex;
+	column-gap: 20px;
+	justify-content: space-between;
+}
+
+.box {
+	width: 233px;
+	height: 314px;
+	background-color: #000;
+}
